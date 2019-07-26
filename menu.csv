@@ -1,0 +1,70 @@
+name;desc;size;unit;price;takeaway;id
+HOFMAN;Biff, skinke, champignon, l›k, paprika, mozzarella ost, tomatsaus;30;cm;130;1;1
+HOFMAN;Biff, skinke, champignon, l›k, paprika, mozzarella ost, tomatsaus;30;cm;145;0;1
+HOFMAN;Biff, skinke, champignon, l›k, paprika, mozzarella ost, tomatsaus;40;cm;190;1;1
+HOFMAN;Biff, skinke, champignon, l›k, paprika, mozzarella ost, tomatsaus;40;cm;205;0;1
+DICKENS SPESIAL;Skinke, pepperoni, biff, champignon, mozzarella ost, tomatsaus;30;cm;130;1;2
+DICKENS SPESIAL;Skinke, pepperoni, biff, champignon, mozzarella ost, tomatsaus;30;cm;145;0;2
+DICKENS SPESIAL;Skinke, pepperoni, biff, champignon, mozzarella ost, tomatsaus;40;cm;190;1;2
+DICKENS SPESIAL;Skinke, pepperoni, biff, champignon, mozzarella ost, tomatsaus;40;cm;205;0;2
+AMERICAN;Salami, skinke, pepperoni, kj›ttdeig, mozzarella ost, tomatsaus;30;cm;130;1;3
+AMERICAN;Salami, skinke, pepperoni, kj›ttdeig, mozzarella ost, tomatsaus;30;cm;145;0;3
+AMERICAN;Salami, skinke, pepperoni, kj›ttdeig, mozzarella ost, tomatsaus;40;cm;190;1;3
+AMERICAN;Salami, skinke, pepperoni, kj›ttdeig, mozzarella ost, tomatsaus;40;cm;205;0;3
+MANFRED;Biff, kj›ttdeig, champignon, l›k, paprika, mozzarella ost, tomatsaus;30;cm;130;1;4
+MANFRED;Biff, kj›ttdeig, champignon, l›k, paprika, mozzarella ost, tomatsaus;30;cm;145;0;4
+MANFRED;Biff, kj›ttdeig, champignon, l›k, paprika, mozzarella ost, tomatsaus;40;cm;190;1;4
+MANFRED;Biff, kj›ttdeig, champignon, l›k, paprika, mozzarella ost, tomatsaus;40;cm;205;0;4
+SILVIO;Biff, champignon, paprika, l›k, mozzarella ost, tomatsaus;30;cm;130;1;5
+SILVIO;Biff, champignon, paprika, l›k, mozzarella ost, tomatsaus;30;cm;145;0;5
+SILVIO;Biff, champignon, paprika, l›k, mozzarella ost, tomatsaus;40;cm;190;1;5
+SILVIO;Biff, champignon, paprika, l›k, mozzarella ost, tomatsaus;40;cm;205;0;5
+HAWAII;Skinke, ananas, mozzarella ost, tomatsaus;30;cm;130;1;6
+HAWAII;Skinke, ananas, mozzarella ost, tomatsaus;30;cm;145;0;6
+HAWAII;Skinke, ananas, mozzarella ost, tomatsaus;40;cm;190;1;6
+HAWAII;Skinke, ananas, mozzarella ost, tomatsaus;40;cm;205;0;6
+OLIV SPESIAL;Skinke, kj›ttdeig, Pepperoni, mozzarella ost, tomatsaus;30;cm;130;1;7
+OLIV SPESIAL;Skinke, kj›ttdeig, Pepperoni, mozzarella ost, tomatsaus;30;cm;145;0;7
+OLIV SPESIAL;Skinke, kj›ttdeig, Pepperoni, mozzarella ost, tomatsaus;40;cm;190;1;7
+OLIV SPESIAL;Skinke, kj›ttdeig, Pepperoni, mozzarella ost, tomatsaus;40;cm;205;0;7
+DENVER;Skinke, salami, kj›ttdeig, paprika, l›k, mozzarella ost, tomatsaus;30;cm;130;1;8
+DENVER;Skinke, salami, kj›ttdeig, paprika, l›k, mozzarella ost, tomatsaus;30;cm;145;0;8
+DENVER;Skinke, salami, kj›ttdeig, paprika, l›k, mozzarella ost, tomatsaus;40;cm;190;1;8
+DENVER;Skinke, salami, kj›ttdeig, paprika, l›k, mozzarella ost, tomatsaus;40;cm;205;0;8
+BELFAST;Skinke, pepperoni, kj›ttdeig, biff, bacon, paprika, champignon, l›k, mozzarella ost, tomatsaus;30;cm;130;1;9
+BELFAST;Skinke, pepperoni, kj›ttdeig, biff, bacon, paprika, champignon, l›k, mozzarella ost, tomatsaus;30;cm;145;0;9
+BELFAST;Skinke, pepperoni, kj›ttdeig, biff, bacon, paprika, champignon, l›k, mozzarella ost, tomatsaus;40;cm;190;1;9
+BELFAST;Skinke, pepperoni, kj›ttdeig, biff, bacon, paprika, champignon, l›k, mozzarella ost, tomatsaus;40;cm;205;0;9
+OLDTIMER;Salami, skinke, mozzarella ost, tomatsaus;30;cm;130;1;10
+OLDTIMER;Salami, skinke, mozzarella ost, tomatsaus;30;cm;145;0;10
+OLDTIMER;Salami, skinke, mozzarella ost, tomatsaus;40;cm;190;1;10
+OLDTIMER;Salami, skinke, mozzarella ost, tomatsaus;40;cm;205;0;10
+CHARLES FAVORITE;Skinke, pepperoni, kj›ttdeig, biff, bacon, mozzarella ost, tomatsaus;30;cm;130;1;11
+CHARLES FAVORITE;Skinke, pepperoni, kj›ttdeig, biff, bacon, mozzarella ost, tomatsaus;30;cm;145;0;11
+CHARLES FAVORITE;Skinke, pepperoni, kj›ttdeig, biff, bacon, mozzarella ost, tomatsaus;40;cm;190;1;11
+CHARLES FAVORITE;Skinke, pepperoni, kj›ttdeig, biff, bacon, mozzarella ost, tomatsaus;40;cm;205;0;11
+PICKWICKS;Skinke, pepperoni, mozzarella ost, tomatsaus;30;cm;130;1;12
+PICKWICKS;Skinke, pepperoni, mozzarella ost, tomatsaus;30;cm;145;0;12
+PICKWICKS;Skinke, pepperoni, mozzarella ost, tomatsaus;40;cm;190;1;12
+PICKWICKS;Skinke, pepperoni, mozzarella ost, tomatsaus;40;cm;205;0;12
+WEST VIRGINIA;Skinke, mozzarella ost, tomatsaus;30;cm;130;1;13
+WEST VIRGINIA;Skinke, mozzarella ost, tomatsaus;30;cm;145;0;13
+WEST VIRGINIA;Skinke, mozzarella ost, tomatsaus;40;cm;190;1;13
+WEST VIRGINIA;Skinke, mozzarella ost, tomatsaus;40;cm;205;0;13
+VEGETARPIZZA;Tomat, champignon, paprika, l›k, mais, ananas, purrel›k, squash, oliven, mozzarella ost, tomatsaus;30;cm;130;1;14
+VEGETARPIZZA;Tomat, champignon, paprika, l›k, mais, ananas, purrel›k, squash, oliven, mozzarella ost, tomatsaus;30;cm;145;0;14
+VEGETARPIZZA;Tomat, champignon, paprika, l›k, mais, ananas, purrel›k, squash, oliven, mozzarella ost, tomatsaus;40;cm;190;1;14
+VEGETARPIZZA;Tomat, champignon, paprika, l›k, mais, ananas, purrel›k, squash, oliven, mozzarella ost, tomatsaus;40;cm;205;0;14
+KYLLINGPIZZA;Kylling, champignon, paprika, l›k, mozzarella ost, tomatsaus;30;cm;130;1;15
+KYLLINGPIZZA;Kylling, champignon, paprika, l›k, mozzarella ost, tomatsaus;30;cm;145;0;15
+KYLLINGPIZZA;Kylling, champignon, paprika, l›k, mozzarella ost, tomatsaus;40;cm;190;1;15
+KYLLINGPIZZA;Kylling, champignon, paprika, l›k, mozzarella ost, tomatsaus;40;cm;205;0;15
+KEBABPIZZA;Kebabkj›tt, champignon, paprika, l›k, mozzarella ost, tomatsaus;30;cm;130;1;16
+KEBABPIZZA;Kebabkj›tt, champignon, paprika, l›k, mozzarella ost, tomatsaus;30;cm;145;0;16
+KEBABPIZZA;Kebabkj›tt, champignon, paprika, l›k, mozzarella ost, tomatsaus;40;cm;190;1;16
+KEBABPIZZA;Kebabkj›tt, champignon, paprika, l›k, mozzarella ost, tomatsaus;40;cm;205;0;16
+GLUNTFRI PIZZA;Kun medium, Valgfri...;30;cm;140;1;17
+GLUNTFRI PIZZA;Kun medium, Valgfri...;30;cm;155;0;17
+Bearnaise saus;;1;beger;20;0;51
+Hvitl›ksaus;;1;beger;20;0;52
+Tomatsaus;;1;beger;10;0;53
